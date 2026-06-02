@@ -11,6 +11,4 @@ const gameHistory = [
 { turn: 8, player: "playerA", finalPos: "茅ヶ崎", event: "無事に移動した！", foundTreasure: false },
 { turn: 9, player: "playerA", finalPos: "大和", event: "🎉 第1の伝説のお宝をついに発見！！ 🎉", foundTreasure: true },
 { turn: 10, player: "playerA", finalPos: "鎌倉", event: "無事に移動した！", foundTreasure: false },
-{ turn: 11, player: "playerA", finalPos: "茅ヶ崎", event: "無事に移動した！", foundTreasure: false },
-{ turn: 12, player: "playerA", finalPos: "小田原", event: "💡 ヒント発見！ 古文書：「我が足元からさらに西、険しき山の入り口となる行き止まりだ」", foundTreasure: false },
 ];
