@@ -10,4 +10,5 @@ const gameHistory = [
 { turn: 7, player: "playerA", finalPos: "三崎口", event: "無事に移動した！", foundTreasure: false },
 { turn: 8, player: "playerA", finalPos: "茅ヶ崎", event: "無事に移動した！", foundTreasure: false },
 { turn: 9, player: "playerA", finalPos: "大和", event: "🎉 第1の伝説のお宝をついに発見！！ 🎉", foundTreasure: true },
+{ turn: 10, player: "playerA", finalPos: "鎌倉", event: "無事に移動した！", foundTreasure: false },
 ];
